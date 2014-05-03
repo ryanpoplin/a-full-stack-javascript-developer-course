@@ -1,6 +1,3 @@
-A full stack JavaScript application development course: with Backbone and Node.
-
-
 (An intermediate level of programming skills is recommended to successfully follow along: know your HTML5, CSS3, and JavaScript). 
 
 I'm utilizing Jason Krol's B.E.N.M. Boilerplate for our codebase's foundation.
